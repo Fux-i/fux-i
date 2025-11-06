@@ -26,14 +26,14 @@
 
 ### :zap: Recent Activity
 
-<b>⚡ Github Stats</b>
+<b>⚡ Github Stats</b><br>
 	<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fux-i&show_icons=true&locale=en&layout=compact&count_private=true" alt="fux-i" />
 	<img height="180px" src="https://github-readme-stats.vercel.app/api?username=fux-i&show_icons=true&locale=en&count_private=true" alt="fux-i" />
 
-<b>☄️ Github Streaks</b>
+<b>☄️ Github Streaks</b><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fux-i" alt="fux-i" />
 
-<b>🎃 Github Contributions</b>
+<b>🎃 Github Contributions</b><br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fux-i&hide_border=true" width="100%"/>
 
 
