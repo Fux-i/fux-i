@@ -9,7 +9,7 @@
 
 - :heart: I have a passion for problem-solving and new tech. When I'm not in code, you'll find me watching tech-related Bilibili videos or play pc games with my lovely friends.
 
-- 💬 Feel free to connect with me for all things, tech or just to say hello! [post an issue](https://github.com/fux-i/fux-i/issues/1) or via QQ(1538130391)
+- 💬 Feel free to connect with me for all things, tech or just to say hello! [post an issue](https://github.com/fux-i/fux-i/issues/1) or via QQ(1538130391) and VX(z1538130391).
 
 - 🌟 _Wish you a nice day!_
 
