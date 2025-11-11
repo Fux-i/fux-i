@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+there!;I'm+Fuxi;Glad+to+meet+you!+%F0%9F%98%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi%2C+there!;I'm+Fuxi;Nice+to+meet+you!+%F0%9F%98%8B" alt="Typing SVG" />
 </h1>
-### Nice to see you here!
+
+### Glad to see you here!
 
 - 👨‍💻 I am a passionate full-stack web developer and game developer from Chengdu. I'm also a junior in University of Electronic Science and Technology of China.
 
