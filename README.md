@@ -6,7 +6,7 @@
 
 - 👨‍💻 I am a passionate full-stack web developer and game developer from Chengdu. I'm also a junior in University of Electronic Science and Technology of China.
 
-- :pencil2: I'm now focusing on C++ and unreal engine.
+- :pencil2: I'm now working on <i>Where Winds Meet</i> project in NetEase as an intern.
 
 - :heart: I have a passion for problem-solving and new tech. When I'm not in code, you'll find me watching tech-related Bilibili videos or play pc games with my lovely friends.
 
